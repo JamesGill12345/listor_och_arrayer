@@ -1,0 +1,15 @@
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\bin\Debug\net6.0\listor_och_arrayer.exe
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\bin\Debug\net6.0\listor_och_arrayer.deps.json
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\bin\Debug\net6.0\listor_och_arrayer.runtimeconfig.json
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\bin\Debug\net6.0\listor_och_arrayer.dll
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\bin\Debug\net6.0\listor_och_arrayer.pdb
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\listor_och_arrayer.csproj.AssemblyReference.cache
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\listor_och_arrayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\listor_och_arrayer.AssemblyInfoInputs.cache
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\listor_och_arrayer.AssemblyInfo.cs
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\listor_och_arrayer.csproj.CoreCompileInputs.cache
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\listor_och_arrayer.dll
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\refint\listor_och_arrayer.dll
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\listor_och_arrayer.pdb
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\listor_och_arrayer.genruntimeconfig.cache
+C:\Users\james.gill\Documents\programering\listor_och_arrayer\obj\Debug\net6.0\ref\listor_och_arrayer.dll

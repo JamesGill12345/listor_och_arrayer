@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "listor_och_arrayer/1.0.0": {
+        "runtime": {
+          "listor_och_arrayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listor_och_arrayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
